@@ -1,0 +1,14 @@
+function p3():
+{
+
+    int[] list = [1, 2, 3, 4, 5]
+    int max = list(0)
+
+    foreach x in list do {
+        if x > max do {
+            max = x
+        }
+    }
+
+    p3 <- max
+}

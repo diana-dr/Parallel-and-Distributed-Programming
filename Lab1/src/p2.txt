@@ -1,0 +1,8 @@
+function p2():
+{
+    int[] list = [1, 2, 3, 4, 5]
+    int sum = 0
+    for each x in list do {
+    sum += x
+    p2 <- sum
+}

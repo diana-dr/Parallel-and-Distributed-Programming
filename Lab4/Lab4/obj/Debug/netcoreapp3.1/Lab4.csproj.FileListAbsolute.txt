@@ -1,0 +1,12 @@
+/Users/dianadragos/Desktop/PDP/Lab4/Lab4/bin/Debug/netcoreapp3.1/Lab4.deps.json
+/Users/dianadragos/Desktop/PDP/Lab4/Lab4/bin/Debug/netcoreapp3.1/Lab4.runtimeconfig.json
+/Users/dianadragos/Desktop/PDP/Lab4/Lab4/bin/Debug/netcoreapp3.1/Lab4.runtimeconfig.dev.json
+/Users/dianadragos/Desktop/PDP/Lab4/Lab4/bin/Debug/netcoreapp3.1/Lab4.dll
+/Users/dianadragos/Desktop/PDP/Lab4/Lab4/bin/Debug/netcoreapp3.1/Lab4.pdb
+/Users/dianadragos/Desktop/PDP/Lab4/Lab4/obj/Debug/netcoreapp3.1/Lab4.csprojAssemblyReference.cache
+/Users/dianadragos/Desktop/PDP/Lab4/Lab4/obj/Debug/netcoreapp3.1/Lab4.AssemblyInfoInputs.cache
+/Users/dianadragos/Desktop/PDP/Lab4/Lab4/obj/Debug/netcoreapp3.1/Lab4.AssemblyInfo.cs
+/Users/dianadragos/Desktop/PDP/Lab4/Lab4/obj/Debug/netcoreapp3.1/Lab4.csproj.CoreCompileInputs.cache
+/Users/dianadragos/Desktop/PDP/Lab4/Lab4/obj/Debug/netcoreapp3.1/Lab4.dll
+/Users/dianadragos/Desktop/PDP/Lab4/Lab4/obj/Debug/netcoreapp3.1/Lab4.pdb
+/Users/dianadragos/Desktop/PDP/Lab4/Lab4/obj/Debug/netcoreapp3.1/Lab4.genruntimeconfig.cache

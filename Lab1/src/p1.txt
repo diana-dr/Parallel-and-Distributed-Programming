@@ -1,0 +1,18 @@
+function p1():
+{
+    int a = 1
+    int b = 2
+    int c = 3
+
+    if a >= b and a >= c do {
+        p1 <- a
+    }
+
+    else if b >= a and b >= c do {
+        p1 <- b
+    }
+
+    else do {
+        p1 <- c
+    }
+}

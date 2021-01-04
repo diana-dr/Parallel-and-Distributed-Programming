@@ -1,0 +1,6 @@
+function p1err():
+{
+    char a = ‘abc’ // eroare lexicala
+    int b = +0 // eroare lexicala
+    p1err <- a
+}
