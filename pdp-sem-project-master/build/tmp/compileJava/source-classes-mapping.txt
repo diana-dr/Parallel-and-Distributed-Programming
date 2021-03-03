@@ -1,0 +1,13 @@
+com/example/puzzle/domain/PuzzleException.java
+ com.example.puzzle.domain.PuzzleException
+com/example/puzzle/domain/Puzzle.java
+ com.example.puzzle.domain.Puzzle
+ com.example.puzzle.domain.Puzzle$1
+ com.example.puzzle.domain.Puzzle$Shift
+com/example/puzzle/MpiSolver.java
+ com.example.puzzle.MpiSolver
+ com.example.puzzle.MpiSolver$ObjectToSend
+com/example/puzzle/Solver.java
+ com.example.puzzle.Solver
+com/example/puzzle/Main.java
+ com.example.puzzle.Main
